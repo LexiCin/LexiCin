@@ -6,9 +6,9 @@
 
 ##### 𐌔𐌕𐌀𐌕𐌉𐌔𐌕𐌉𐌂𐌔
 
-[![LexiCin's GitHub stats](https://github-readme-stats.vercel.app/api?username=LexiCin&show_icons=true&theme=cobalt)](https://github.com/LexiCin)
+[![LexiCin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lexi&show_icons=true&theme=cobalt)](https://github.com/LexiCin)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LexiCin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lexi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
