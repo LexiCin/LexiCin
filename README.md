@@ -13,3 +13,7 @@ Thanks for visiting my profile! I'm passionate about coding and always striving 
 - **Frameworks**: Next.js , React js, Vite
 - **Database**: Prisma
 - **Virtual Server**: proxmox, linux server
+
+## Hobby
+
+-Watch 𝓐𝓷𝓲𝓶𝓮
