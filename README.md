@@ -12,4 +12,4 @@ Thanks for visiting my profile! I'm passionate about coding and always striving 
 - **Tools**: Git, VS Code
 - **Frameworks**: Next.js , React js, Vite
 - **Database**: Prisma
-- **server Cloud**: proxmox, linux server
+- **Virtual Server**: proxmox, linux server
